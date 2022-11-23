@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\проекты визуал студио\\ежедневник\\ежедневник.csproj": {}
+    "D:\\проекты визуал студио\\ежедневник — копия\\ежедневник.csproj": {}
   },
   "projects": {
-    "D:\\проекты визуал студио\\ежедневник\\ежедневник.csproj": {
+    "D:\\проекты визуал студио\\ежедневник — копия\\ежедневник.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\проекты визуал студио\\ежедневник\\ежедневник.csproj",
+        "projectUniqueName": "D:\\проекты визуал студио\\ежедневник — копия\\ежедневник.csproj",
         "projectName": "ежедневник",
-        "projectPath": "D:\\проекты визуал студио\\ежедневник\\ежедневник.csproj",
+        "projectPath": "D:\\проекты визуал студио\\ежедневник — копия\\ежедневник.csproj",
         "packagesPath": "C:\\Users\\chelo\\.nuget\\packages\\",
-        "outputPath": "D:\\проекты визуал студио\\ежедневник\\obj\\",
+        "outputPath": "D:\\проекты визуал студио\\ежедневник — копия\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
